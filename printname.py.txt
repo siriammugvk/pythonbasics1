@@ -1,1 +1,0 @@
-print("shirisha K C")
